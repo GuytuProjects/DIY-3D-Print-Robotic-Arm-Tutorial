@@ -9,6 +9,12 @@ This is a step by step how to tutorial for creating 3d printed robotic arm that 
   Regardless of the factor that is motivating you to follow this tutorial I implore you not to follow the steps mindlessly
   or just copy the code, instead please try to make sense of my instructions and try do things in your own way. Lets get started!
 
+## Table of Contents
+  1. [Step 1: Getting Started](Step1/README.md)
+  2. [Step 2: Writing the Code]
+  3. [Step 3: Building the Arm]
+  4. [Step 4: Final Thoughts]
+
 ## [List of Materials](https://docs.google.com/spreadsheets/d/1Dp6b8R32gZZG6dd2im-lXMtWr-UyI8ejz0LY45OnSRQ/edit?usp=sharing)
   1. DC - DC Converter(May not be needed)
   2. Fishing Wire(or any form of string)
