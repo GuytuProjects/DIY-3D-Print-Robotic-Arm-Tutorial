@@ -18,6 +18,7 @@ This is a step by step how to tutorial for creating 3d printed robotic arm that 
   4. [Step 4: Final Thoughts](Step4/README.md)
 
 ## [List of Materials](https://docs.google.com/spreadsheets/d/1Dp6b8R32gZZG6dd2im-lXMtWr-UyI8ejz0LY45OnSRQ/edit?usp=sharing)
+Here are the list of materials that you will need for building the robotic arm:
   1. DC - DC Converter(May not be needed)
   2. Fishing Wire(or any form of string)
   3. Arduino UNO(1x)
