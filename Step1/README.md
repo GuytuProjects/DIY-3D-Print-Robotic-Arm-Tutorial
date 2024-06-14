@@ -9,7 +9,7 @@ For those of you thinking of doing the Challenge, good for you, but for those wh
 
 Block Diagram and Wiring Schematic:
 1. [Block Diagram](BlockDiagram.png)
-2. [Wiring Schematic]
+2. [Wiring Schematic](WiringSchematic.png)
 
 > **Reflection:** Reflection Prompt
 
