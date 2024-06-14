@@ -38,7 +38,7 @@ This is a step by step how to tutorial for creating 3d printed robotic arm that 
   1. [Video #1]
   2. [Video #2]
 
-### [>>>Next Page](Step #1/README.md)
+### [>>>Next Page](Step1/README.md)
 
   Web Tutorial of Robotic Arm:
   1. [Link to WebTutorial]
