@@ -2,7 +2,7 @@
 This is a step by step how to tutorial for creating 3d printed robotic arm that outputs 1,2,3,4,and 5 fingers
 
 ## The Results!
-  [photo of the arm fully functioning]
+  [Video of the arm fully functioning]
 
 ## Introduction
   This tutorial is to help people who are interested in creating a robotic for fun or for an educational opportunity.
