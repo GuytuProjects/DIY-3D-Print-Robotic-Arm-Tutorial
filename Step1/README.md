@@ -4,8 +4,7 @@
 ## Make Your Blueprint
  > **Challenge:** Make your own Block Diagram and Wiring Schematic for
   your Robotic Arm to help you get a better understanding of how wiring works
-  the thought process that goes into doing similar things.
-For those of you thinking of doing the Challenge, good for you, but for those who are thinking of skipping the challenge and just copying my block diagram and wiring schematic I highly urge you not to do so if you want to learn anything.
+  the thought process that goes into doing similar things. As I said in the introduction I highly recommend you do this challenge as a way to learn in the best way possible
 
 Block Diagram and Wiring Schematic:
 1. [Block Diagram](BlockDiagram.png)
