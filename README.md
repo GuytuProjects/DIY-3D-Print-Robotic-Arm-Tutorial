@@ -9,7 +9,7 @@ This is a step by step how to tutorial for creating 3d printed robotic arm that 
   Regardless of the factor that is motivating you to follow this tutorial I implore you not to follow the steps mindlessly
   or just copy the code, instead please try to make sense of my instructions and try do things in your own way. Lets get started!
 
-## [link to the materials spreadsheet] List of Materials
+## [List of Materials](MateiralsUpdated.xlsx)
   1. DC - DC Converter(May not be needed)
   2. Fishing Wire(or any form of string)
   3. Arduino UNO(1x)
@@ -35,10 +35,10 @@ This is a step by step how to tutorial for creating 3d printed robotic arm that 
   tutorials are different than the function of this tutorial that you are following). Here are the tutorials:
 
   Videos of Robotic arm
-  1. [Video #1]
-  2. [Video #2]
+  1. [How to Make Robotic Hand Using Servo Motor | Part-1 | Inmoov | Right Hand](https://www.youtube.com/watch?v=vgtJY_rJWzo)
+  2. [How to Make Robotic Hand Using Servo Motor | Part-2 | Inmoov | Right Hand](https://www.youtube.com/watch?v=ZXy0Oxoixcg)
 
   Web Tutorial of Robotic Arm:
-  1. [Link to WebTutorial]
+  1. [Hand and Forarm | Inmoov](https://inmoov.fr/hand-and-forarm/)
 
 ### [>>>Next Page](Step1/README.md)
