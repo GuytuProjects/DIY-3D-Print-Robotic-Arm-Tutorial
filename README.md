@@ -1,5 +1,5 @@
-# DIY 3D Print Robotic Arm Tutorial
-This is a step by step how to tutorial for creating 3d printed robotic arm that outputs 1,2,3,4,and 0(Fist) fingers(edit this to make this better)(have a nice solid headline very important)
+# DIY 3D Print Robotic Arm Tutorial(Working Title)
+This is a step by step how to tutorial for creating 3d printed robotic arm that outputs 1,2,3,4,and 0(Fist) fingers(edit this to make this better)(have a nice solid headline very important)(Working selling point)
 
 ## The Results!
   [Video of the arm fully functioning]
@@ -9,7 +9,7 @@ This is a step by step how to tutorial for creating 3d printed robotic arm that 
   Regardless of the factor that is motivating you to follow this tutorial I implore you not to follow the steps mindlessly
   or just copy the code, instead please try to make sense of my instructions and try do things in your own way. Lets get started!
 
-  Throughout this tutorial there will be challenge prompts and self-reflection prompts.
+  Throughout this tutorial there will be challenge prompts and self-reflection prompts. (Working intro)
 
 ## Table of Contents
   1. [Step 1: Getting Started](Step1/README.md)
