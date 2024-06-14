@@ -18,7 +18,7 @@ This is a step by step how to tutorial for creating 3d printed robotic arm that 
   6. RS 232 Connector(May not be needed)
   7. Small Breadboard
   8. Resistors(Recommended 1k ohms)
-  9. 3d Printer and Filament
+  9. 3d Printer and Filament(Do not Buy)
   10. SuperGlue
   11. 3/32 Drill Bit
   12. Screwdriver and Screws/Bolts
