@@ -13,7 +13,7 @@ This is a step by step educational how to tutorial to help people get started in
   3. [Step 3: Building the Arm](Step3/README.md)
   4. [Step 4: Final Thoughts](Step4/README.md)
 
-## [List of Materials](https://docs.google.com/spreadsheets/d/1Dp6b8R32gZZG6dd2im-lXMtWr-UyI8ejz0LY45OnSRQ/edit?usp=sharing)
+## [List of Materials](https://docs.google.com/spreadsheets/d/17bB3PmDmJmwHMX_M25HdZF850DJNAGpxA2a6IrNP-vU/edit?usp=sharing)
 Here are the list of materials that you will need for building the robotic arm:
   1. DC - DC Converter(May not be needed)
   2. Fishing Wire(or any form of string)
