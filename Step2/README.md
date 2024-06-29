@@ -13,4 +13,5 @@ For the I recomend using two platforms one for simulation and the other for runn
 2. The Second platform that I will recommend you use is the Arduino IDE there are other IDEs that you could but in my opinion, this is the best IDE for beginners who are using boards like Arduino.
 
 ### Simulation
-1. First open up TinkerCad and login(if you don't have an account already please create one) then navigate to the home tab in you on that page. What you are going to do is press the create button to create a project and then press circuit. 
+1. First open up TinkerCad and login(if you don't have an account already please create one) then navigate to the home tab in you on that page. What you are going to do is press the create button to create a project and then press circuit.
+   ![](SimulationPictures/tinkerpic3.png)
