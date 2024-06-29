@@ -15,7 +15,7 @@ Block Diagram and Wiring Schematic:
 ## Print Your Parts
   To truly start the process of building your own robotic arm you need the things that every engineering project needs. In our case, you will need to 3d print a bulk of arm parts that you will later put together to make the final product. Also, you will not be printing all the parts that you see in the attached link so  please review the list of parts needed and download.
 
-  ###Here are the stl parts for the [Right Arm](https://inmoov.fr/inmoov-stl-parts-viewer/?bodyparts=Right-Hand)
+  ### Here are the stl parts for the [Right Arm](https://inmoov.fr/inmoov-stl-parts-viewer/?bodyparts=Right-Hand)
 
   1. 1x Thumb
   2. 1x Index
@@ -34,7 +34,7 @@ Block Diagram and Wiring Schematic:
   15. 1x robpart5
   16. 1x ElbowShaftGear (if you built the bicep)
 
-###Here are the STL parts for the [Right Wrist](https://inmoov.fr/inmoov-stl-parts-viewer/?bodyparts=Rotation-Wrist)
+### Here are the STL parts for the [Right Wrist](https://inmoov.fr/inmoov-stl-parts-viewer/?bodyparts=Rotation-Wrist)
 
   1. 1x rotawrist2
   2. 1x rotawrist1
