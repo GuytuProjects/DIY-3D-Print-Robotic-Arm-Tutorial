@@ -15,3 +15,5 @@ For the I recomend using two platforms one for simulation and the other for runn
 ### Simulation
 1. First open up TinkerCad and login(if you don't have an account already please create one) then navigate to the home tab in you on that page. What you are going to do is press the create button to create a project and then press circuit.
    ![](SimulationPictures/tinkerpic3.png)
+2. Second you will got to the side bar on the right and click on the menu where it says basic or starter then navigate to the Arduino Section.
+   ![](SimulationPictures/tinkerpic2.png)
