@@ -12,5 +12,5 @@ For the I recomend using two platforms one for simulation and the other for runn
 1. The first platform that I will recomend that you use is an online site called [TinkerCad](https://www.tinkercad.com/). This an online site that will allow you to do several things related to engineering, but what we are going to use it for is the simulation of the code and servos.
 2. The Second platform that I will recommend you use is the Arduino IDE there are other IDEs that you could but in my opinion, this is the best IDE for beginners who are using boards like Arduino.
 
-# Simulation
+### Simulation
 1. First open up TinkerCad and login(if you don't have an account already please create one) then navigate to the home tab in you on that page. What you are going to do is press the create button to create a project and then press circuit. 
