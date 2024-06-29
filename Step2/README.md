@@ -17,3 +17,4 @@ For the I recomend using two platforms one for simulation and the other for runn
    ![](SimulationPictures/tinkerpic3.png)
 2. Second you will got to the side bar on the right and click on the menu where it says basic or starter then navigate to the Arduino Section. Then you will click on the breadboard option and drag it out onto the whitespace.
    ![](SimulationPictures/tinkerpic4.png)
+3. What you then do is search for the servo component and drag 5 of them out. You should see something under the other components header saying micro servos drag that component out onto the white space.
