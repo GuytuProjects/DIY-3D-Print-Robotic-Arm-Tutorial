@@ -18,8 +18,8 @@ For the I recommend using two platforms one for simulation and the other for run
 2. Second you will go to the sidebar on the right and click on the menu where it says basic or starter then navigate to the Arduino Section. Then you will click on the breadboard option and drag it out onto the whitespace.
    ![](SimulationPictures/tinkerpic4.png)
 3. What you then do is search for the servo component and drag 5 of them out. You should see something under the other components header saying micro servos drag that component out onto the white space.
-  ![]()
+  ![](SimulationPictures/tinkerpic5.png)
 4. Then wire all the components together in the white space/
-  ![]()
+  ![](SimulationPictures/tinkerpic6.png)
 5. Finally navigate to the top right and press code, this is where you will type your code and run your simulation. This will help test your code so that once you are ready to move on to the next step there will be no problem when you actually run the program with the fully built arm.
-  ![]()
+  ![](SimulationPictures/tinkerpic7.png)
