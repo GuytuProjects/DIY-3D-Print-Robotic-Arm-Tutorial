@@ -32,6 +32,7 @@ Here is my [code](Code/FinalRoboticArmCode.ino):
 ![](Code/code3.png)
 
 > **Reflection:** This is for people who did not copy the code that I provided. What did you learn while making your program? What was the hardest challenge/difficulty that you faced while developing your program? Is there any way that you could make it better?
+> 
 > **Reflection:** This is for people who did copy the code that I provided. What did you learn from my code? Is there any way that you could make it better?
 
 
