@@ -58,3 +58,14 @@ After you have attached all the servo pulleys to the servos then you will take t
 
 Finally, it is time to do some wiring, so take out your breadboard, jumper wires, wire stripper, and Arduino UNO and start wiring with respect to the wiring schematic that you made in the first section.
 ![](../Step1/Schematics/WiringSchematic.png)
+![](RobotPartPictures/IMG_3185.png)
+
+After you have wired everything correctly connect your Arduino UNO to your PC and then pull up your code file make sure that your IDE is connected to your board then upload the program and test it out.
+
+Once everything is tested and working then take the [RobPart3V4.stl](../Step1/RoboticParts/robpart3V4.stl) and the [RobPart4V4.stl](../Step1/RoboticParts/robpart4V4.stl) and glue them together then attach to the forearm.\
+![](RobotPartPictures/IMG_3184.png)
+![](RobotPartPictures/IMG_3186.png)
+
+Finally, you could attach the [RobCap3V2.stl](../Step1/RoboticParts/robcap3V2.stl) to the arm, but you are going to have to rewire everything so I didn't.
+
+And Voila you are done!!! Congrats on building your very own robotic arm!
