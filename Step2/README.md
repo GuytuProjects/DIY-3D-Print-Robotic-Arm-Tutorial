@@ -26,5 +26,8 @@ For the I recommend using two platforms one for simulation and the other for run
 
 Again I emphasize that go with the challenge and create your own code that may or may not be distinctly different than mine.
 
-Here is my [code]():
+Here is my [code](Code/FinalRoboticArmCode.ino):
+![](Code/code1.png)
+![](Code/code2.png)
+![](Code/code3.png)
 
