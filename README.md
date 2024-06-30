@@ -8,6 +8,18 @@ These are the results! Unfortunately due to some mistakes that I couldn't fix at
 https://github.com/GuytuProjects/DIY-3D-Print-Robotic-Arm-Tutorial/assets/91699001/c67d7c6d-6ae8-4bc3-9650-a31a41659143
 
 
+## Credits
+This tutorial was made by myself only, but the process by which I built this largely depends on these resources I would like to give credit:
+
+Youtube Video Botnix:
+  1. [How to Make Robotic Hand Using Servo Motor | Part-1 | Inmoov | Right Hand](https://www.youtube.com/watch?v=vgtJY_rJWzo)
+  2. [How to Make Robotic Hand Using Servo Motor | Part-2 | Inmoov | Right Hand](https://www.youtube.com/watch?v=ZXy0Oxoixcg)
+These two YouTube videos are what I used to follow and create my robotic arm, though the end functions of the video's arm are different then mine.
+
+Inmoove| The Original Resource
+1. [Inmoov](https://inmoov.fr/)
+This site is the original resource that both I and the YouTube video follow, the printed materials are all created by the owner of this website and he was the one to originally come up with this unique idea of building an actual robot(though it is just the upper body)
+
 
 ## Introduction
   Throughout this tutorial, there will be challenge prompts and self-reflection prompts that are there for you to answer while you are in the process of building your very own robotic arm. I advise you that you answer these           questions to the best of your ability as it is the best way to learn the material that you will be working with. Also regardless of the factor that is motivating you to follow this tutorial, I implore you not to follow the steps    mindlessly or just copy the code, instead please try to make sense of my instructions and try to do things in your way. Let's get started!
