@@ -2,6 +2,7 @@
 This is a step by step educational how to tutorial to help people get started in the world of engineering with a simple but cool project that is easy to do and cheap to build. The project is a robotic arm that takes a command inputted by the user into a PC and outputs a 1, 2, 3, 4, or first(0) gesture.
 
 ## The Results!
+These are the results! Unfortunately due to some mistakes that I couldn't fix at the moment some of the fingers didn't pull back, but everything else works just fine.
   
 
 https://github.com/GuytuProjects/DIY-3D-Print-Robotic-Arm-Tutorial/assets/91699001/c67d7c6d-6ae8-4bc3-9650-a31a41659143
