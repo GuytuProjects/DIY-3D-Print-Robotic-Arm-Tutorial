@@ -18,5 +18,5 @@ Then connect the other finger using again candle wick, filament, or something si
 Then we move on to the forearm for a little bit where we will glue the [RobPart2V4.stl](../Step1/RoboticParts/robpart2V4.stl), [RobPart5V4.stl](../Step1/RoboticParts/robpart5V4.stl), and the [RotaWrist1V4.stl](../Step1/RoboticParts/RotaWrist1V4.stl) together.
 ![](RobotPartPictures/IMG_3136.jpg)
 
-Next, we screw in the [RobServoBedV6.stl](../Step1?RoboticParts/RobServoBedV6.stl) and screw in the servos as well. For this part, I didn't take a lot of pictures so I recommend that you look at the video for reference
+Next, we screw in the [RobServoBedV6.stl](../Step1/RoboticParts/RobServoBedV6.stl) and screw in the servos as well. For this part, I didn't take a lot of pictures so I recommend that you look at the video for reference
 [Video Part 1(7:16-9:02)](https://www.youtube.com/watch?v=vgtJY_rJWzo&t=306s)
