@@ -1,1 +1,2 @@
-
+# Building The Arm!
+In the last section what you did was write the code you will use for you robotic arm. In this section, we will be finally building the robotic arm using the part we 3d printed in the first section. This will be a good time to occasionally refer to the other resources that I gave on the main page as one of the resources is a video of the same project(slightly different) being built and if is great to follow along and look for the tiny things that I may not cover in this tutorial.
