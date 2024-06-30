@@ -9,4 +9,6 @@ Remember not to glue the fingertip to the fingers as we will do that later
 Next connect the joints of each finger with a candle wick(What I used but you don't have to use it if you can't), filament, or something similar. You may have to drill the holes of the joint so that they are wide enough to take whatever material you are using
 ![](RobotPartPictures/IMG_3133.jpg)
 
-Next connect the thumb to the palm using the [Bolt_Enteroise]() as shown below:
+Next connect the thumb to the palm using the [Bolt_Entretoise7.stl](../Step1/RoboticParts/Boltentretoise7.stl) as shown below:
+![](RobotPartPictures/IMG_3146.jpg)
+Then connect the other finger using again candle wick, filament, or something similar.
