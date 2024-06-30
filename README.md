@@ -34,6 +34,7 @@ Here are the list of materials that you will need for building the robotic arm:
   12. Screwdriver and Screws/Bolts
   13. Wire Stripper
   14. Tape
+  15. Candle Wicks
 
   __*Note: Some of these materials may not be needed for you it all depends on the situation you are in.
   for the materials that I marked (may not be needed), I am not using them, but you might, so before beginning
