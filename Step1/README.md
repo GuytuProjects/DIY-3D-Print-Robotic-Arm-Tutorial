@@ -7,8 +7,8 @@
   and the thought process that goes into doing similar things. As I said in the introduction I highly recommend you do this challenge as a way to learn in the best way possible.
 
 Block Diagram and Wiring Schematic:
-1. [Block Diagram](BlockDiagram.png)
-2. [Wiring Schematic](WiringSchematic.png)
+1. [Block Diagram](Schematics/BlockDiagram.png)
+2. [Wiring Schematic](Schematics/WiringSchematic.png)
 
 > **Reflection:** What did you learn while developing your wiring schematic? In a short paragraph explain why you wired your schematic the way it is and explain which pins you used and why.
 
