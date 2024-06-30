@@ -21,5 +21,10 @@ For the I recommend using two platforms one for simulation and the other for run
   ![](SimulationPictures/tinkerpic5.png)
 4. Then wire all the components together in the white space/
   ![](SimulationPictures/tinkerpic6.png)
-5. Finally navigate to the top right and press code, this is where you will type your code and run your simulation. This will help test your code so that once you are ready to move on to the next step there will be no problem when you actually run the program with the fully built arm.
+5. Finally navigate to the top right and press code, this is where you will type your code and run your simulation. This will help test your code so that once you are ready to move on to the next step there will be no problem when you actually run the program with the fully built arm. Also make sure to that you have text selected you that you can type in code rather than blocks.
   ![](SimulationPictures/tinkerpic7.png)
+
+Again I emphasize that go with the challenge and create your own code that may or may not be distinctly different than mine.
+
+Here is my [code]():
+
