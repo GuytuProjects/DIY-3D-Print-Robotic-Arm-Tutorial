@@ -33,6 +33,10 @@ Block Diagram and Wiring Schematic:
   14. 1x robpart4
   15. 1x robpart5
   16. 1x ElbowShaftGear (if you built the bicep)
+  17. 1x RobServoBed
+  18. 1x Servo Pulley
+  19. 1x RobCableFront
+  20. 1x RobCableBack
 
 ### Here are the STL parts for the [Right Wrist](https://inmoov.fr/inmoov-stl-parts-viewer/?bodyparts=Rotation-Wrist)
 
