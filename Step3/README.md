@@ -57,4 +57,4 @@ After you have attached all the servo pulleys to the servos then you will take t
 ![](RobotPartPictures/IMG_3181.png)
 
 Finally, it is time to do some wiring, so take out your breadboard, jumper wires, wire stripper, and Arduino UNO and start wiring with respect to the wiring schematic that you made in the first section.
-![](../Step!/Schematics/W
+![](../Step!/Schematics/WiringSchematic.png)
