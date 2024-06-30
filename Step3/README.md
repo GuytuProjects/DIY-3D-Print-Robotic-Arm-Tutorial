@@ -4,3 +4,4 @@ In the last section what you did was write the code you will use for you robotic
 ## Start with the Hand
 Using the parts that you printed out earlier in the tutorial we will start by assembling the fingers and thumb you can see what to attach by looking for an indent on the bottom two parts fo the finger then you can work you way up from there. Lastly, remember not to glue the fingertips because we will do that later on.
 ![](RobotPartPictures/IMG_3132.jpg)
+Remember not to glue the fingertip to the fingers as we will do that later
