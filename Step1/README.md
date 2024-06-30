@@ -10,7 +10,7 @@ Block Diagram and Wiring Schematic:
 1. [Block Diagram](BlockDiagram.png)
 2. [Wiring Schematic](WiringSchematic.png)
 
-> **Reflection:** Reflection Prompt
+> **Reflection:** What did you learn while developing your wiring schematic? In a short paragraph explain why you wired your schematic the way it is and explain which pins you used and why.
 
 ## Print Your Parts
   To truly start the process of building your own robotic arm you need the things that every engineering project needs. In our case, you will need to 3d print a bulk of arm parts that you will later put together to make the final product. Also, you will not be printing all the parts that you see in the attached link so  please review the list of parts needed and download.
