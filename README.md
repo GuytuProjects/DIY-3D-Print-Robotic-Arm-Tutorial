@@ -24,7 +24,7 @@ Here are the list of materials that you will need for building the robotic arm:
   2. Fishing Wire(or any form of string)
   3. Arduino UNO(1x)
   4. Breadboard Jumper Wires
-  5. MG-995 Servo Motors(5x)[put amazon link here](please buy this exact type*)
+  5. MG-995 Servo Motors(5x)[Amazon Link](https://www.amazon.com/DWEII-Control-Angle180-Digital-Helicopter/dp/B09V4DZGD9/ref=sr_1_15?asc_source=01H8HFYCRM99TJ9FED7FSB1ZXC&dib=eyJ2IjoiMSJ9.6grwfkoyJ6HnBMbId0tZ-SsNYFFbEHub7-BdyEL43XhDYyUbwHrOFggkrCDLxJJynbS8cRs8hepFB3QHM_OyviPjBLocVihZlRVxyiyDr1P8QTCHtRFNmIh6xnCW8f_V-K4vuh1VMhVYQSkc6dBSpu0s1i6FFm0lCYonhSFX5V2tDyTMkTR1n62QVVw2_bRe4ovSPFq5K39vAA6IoQABM2pFRmjK_kUB0OMA7CCChrjajaAn1WNZ96io8WeHZECFXQI_3l2Csaa43NpL6o8-OJaIYqD33cX7BB8KXOEYNIM.K4QUcSvYJOfGUtULuF0z6Ywxlf9ayzLpfKCNPtGtNqI&dib_tag=se&keywords=mg995+servo&qid=1719715345&sr=8-15&tag=namespacebran689-20)(please buy this exact type*)
   6. RS 232 Connector(May not be needed)
   7. Small Breadboard
   8. Resistors(Recommended 1k ohms)
