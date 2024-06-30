@@ -24,7 +24,7 @@ Here are the list of materials that you will need for building the robotic arm:
   2. Fishing Wire(or any form of string)
   3. Arduino UNO(1x)
   4. Breadboard Jumper Wires
-  5. MG-995 Servo Motors(5x)[put amazon link here]
+  5. MG-995 Servo Motors(5x)[put amazon link here](please buy this exact type*)
   6. RS 232 Connector(May not be needed)
   7. Small Breadboard
   8. Resistors(Recommended 1k ohms)
@@ -32,6 +32,8 @@ Here are the list of materials that you will need for building the robotic arm:
   10. SuperGlue
   11. 3/32 Drill Bit
   12. Screwdriver and Screws/Bolts
+  13. Wire Stripper
+  14. Tape
 
   __*Note: Some of these materials may not be needed for you it all depends on the situation you are in.
   for the materials that I marked (may not be needed), I am not using them, but you might, so before beginning
