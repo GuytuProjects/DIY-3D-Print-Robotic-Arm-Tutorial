@@ -42,5 +42,4 @@ Block Diagram and Wiring Schematic:
   4. 1x WristGears
   5. 1x CableHolderWrist
 
-## [>>> Next Page](../Step2/README.md)
-## [>>> Previous Page](../README.md)
+## [>>> Previous Page](../README.md)                                                                              ## [>>> Next Page](../Step2/README.md)
