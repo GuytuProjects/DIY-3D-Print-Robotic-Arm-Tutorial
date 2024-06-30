@@ -41,3 +41,6 @@ Block Diagram and Wiring Schematic:
   3. 1x rotawrist3
   4. 1x WristGears
   5. 1x CableHolderWrist
+
+## [>>> Next Page](../Step2/README.md)
+## [>>> Previous Page](../README/md)
