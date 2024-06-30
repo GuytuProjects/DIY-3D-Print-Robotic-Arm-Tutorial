@@ -3,7 +3,7 @@ This is the second section of the robotic arm tutorial what we have done is the 
 
 ## Before We Start
 Before we start, some of you who are following this tutorial may have a different function for your arm, unfortunately, I will not cover any other functions so you will have to figure out the code yourself, but feel free to use my code as a template. For those who are following this tutorial exactly please do not just copy the code there are two ways that I recommend that you proceed with this section: 
-  1. Challenge: Try to make your own code as there are multiple ways to solve one problem
+  > 1. **Challenge:** Try to make your own code as there are multiple ways to solve one problem
   2. It is okay to copy my code but while doing so please try to understand why I wrote what I wrote
 
 ## The Code
