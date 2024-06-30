@@ -11,4 +11,5 @@ Next connect the joints of each finger with a candle wick(What I used but you do
 
 Next connect the thumb to the palm using the [Bolt_Entretoise7.stl](../Step1/RoboticParts/Boltentretoise7.stl) as shown below:
 ![](RobotPartPictures/IMG_3146.jpg)
+
 Then connect the other finger using again candle wick, filament, or something similar.
