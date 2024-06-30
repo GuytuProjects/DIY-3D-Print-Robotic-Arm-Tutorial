@@ -31,3 +31,5 @@ Here is my [code](Code/FinalRoboticArmCode.ino):
 ![](Code/code2.png)
 ![](Code/code3.png)
 
+
+## [<<< Previous Page](../Step1/README.md)            [>>> Next Page](../Step3/README.md)
