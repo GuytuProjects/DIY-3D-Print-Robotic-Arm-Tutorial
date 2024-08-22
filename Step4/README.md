@@ -11,4 +11,6 @@ What are you going to do with this project? If you're done that's great you have
 3. You could have it copy your hand movements through a camera using computer vision
 
 That is all I have for now for future ideas, but I hope you enjoyed this tutorial and found it useful in your engineering journey!
+
+## [<<< Previous Page](../Step3/README.md)
      
