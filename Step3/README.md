@@ -69,3 +69,5 @@ Once everything is tested and working then take the [RobPart3V4.stl](../Step1/Ro
 Finally, you could attach the [RobCap3V2.stl](../Step1/RoboticParts/robcap3V2.stl) to the arm, but you are going to have to rewire everything so I didn't.
 
 And Voila you are done!!! Congrats on building your very own robotic arm!
+
+## [<<< Previous Page](../Step2/README.md)            [ Next Page >>>](../Step4/README.md)
